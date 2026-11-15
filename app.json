@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PROJECT-1",
-    "slug": "PROJECT-1",
+    "name": "Celsius Converter",
+    "slug": "celsius-converter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
